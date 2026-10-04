@@ -1,4 +1,4 @@
-# Simple Medicine Reminder System
+# Medicine Reminder System
 
 **ENCS4330  (Real-Time Applications & Embedded Systems)**  
 **PIC16F877A assembly + Proteus**
