@@ -3,6 +3,10 @@
 **ENCS4330  (Real-Time Applications & Embedded Systems)**  
 **PIC16F877A assembly + Proteus**
 
+![Welcome screen](docs/welcome-and-schemetic.png)
+![Clock](docs/clock.png)
+![Reminder alert](docs/alert.png)
+
 ---
 
 ## What it does
