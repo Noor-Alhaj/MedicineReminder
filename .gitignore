@@ -1,0 +1,14 @@
+# Accidental nested repo created by GitHub Desktop
+/MedicineReminder/
+
+# Proteus local workspace (machine-specific)
+*.workspace
+
+# Proteus backups
+/Project Backups/
+
+# MPLAB X build output and local settings
+MedReminder.X/build/
+MedReminder.X/nbproject/private/
+MedReminder.X/nbproject/Makefile-genesis.properties
+MedReminder.X/nbproject/Makefile-local-*.mk
